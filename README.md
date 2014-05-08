@@ -8,3 +8,4 @@ Also note that after much consideration I've created a Brum JS meetup group. Thi
 To attend, file a pull request adding your name & any relevant info to the attendee list below, and/or mark yourself as attending on meetup.com.
 
  - Jack Wearden (@jackweirdy)
+ - Nadeem Shabir (@kiyanwang)
