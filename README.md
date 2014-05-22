@@ -11,3 +11,4 @@ To attend, file a pull request adding your name & any relevant info to the atten
  - Nadeem Shabir (@kiyanwang)
  - Stuart Langridge (@sil) -- I really will try and make it this time
  - Christopher Rolfe (@ThatChrisR)
+ - Ben Paddock (@_pads)
